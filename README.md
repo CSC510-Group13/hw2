@@ -38,4 +38,3 @@ This repository contains the project for Team 13, which includes various tasks a
 - [x] Task 3: Modify `.html` File  
 - [x] Task 4: Merge latest changes  
 - [x] Task 5: Review pull requests
-```
