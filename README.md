@@ -35,6 +35,11 @@ This repository contains the project for Team 13, which includes various tasks a
 
 - [x] Task 1: Complete Git Tutorial 
 - [x] Task 2: Add Screenshots to README.md
+
+teddy task 1
+
+![Image](https://github.com/user-attachments/assets/5cbaf91e-ccf9-4846-b227-13e3b14bbd89)
+
 - [x] Task 3: Modify `.html` File  
 - [x] Task 4: Merge latest changes  
 - [x] Task 5: Review pull requests
