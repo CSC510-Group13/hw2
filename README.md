@@ -1,5 +1,8 @@
 # hw2
 
+![image](https://github.com/user-attachments/assets/c6127341-a4fd-406b-bc3f-8b40e092697e)
+![image](https://github.com/user-attachments/assets/c3d6c6f6-8691-4fdd-b5bc-663db7835825)
+
 
 ## 📝 Introduction
 
