@@ -43,3 +43,13 @@ teddy task 1
 - [x] Task 3: Modify `.html` File  
 - [x] Task 4: Merge latest changes  
 - [x] Task 5: Review pull requests
+
+
+### Git tutorial Progress
+![First one](https://github.com/user-attachments/assets/3c4ee95a-8ec4-4c04-b975-16a3c0e030f2)
+
+
+![Screenshot from 2025-01-28 20-51-01(1)](https://github.com/user-attachments/assets/498db125-8908-426b-bbfb-160f33d9e8a6)
+
+
+
