@@ -1,4 +1,4 @@
-Installation Guide for CSC510 Group 13 SWE Homework
+# Installation Guide for CSC510 Group 13 SWE Homework
 
 Welcome! Follow these steps to set up the project on your local machine.
 Prerequisites
