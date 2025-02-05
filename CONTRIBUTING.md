@@ -23,11 +23,9 @@ We welcome all kinds of contributions, including but not limited to:
 
 > Open-source projects thrive because of contributions from individuals like you. Whether you are fixing typos, improving tests, or writing new features, your help is valuable!
 
-### Contributions We Are NOT Looking For
+### Contributions
 
 We may not accept contributions that do not align with the project goals or duplicate existing features.
-
-> Please refrain from using the issue tracker for support questions. If you need help, check relevant discussion forums or Stack Overflow.
 
 ## 🚀 How to Contribute
 ### 1. Fork the Repository
@@ -64,17 +62,12 @@ We may not accept contributions that do not align with the project goals or dupl
 - Address any feedback before merging.
 
 ## 📝 Coding Guidelines
-- Use **Python (PEP8)** or the relevant language style guide.
 - Maintain **modular, readable, and well-commented** code.
 - Write **unit tests** for new features.
 - Keep functions small and maintainable.
 
 ## 🧪 Testing
 - Ensure all tests pass before submitting a PR.
-- Run unit tests using:
-  ```bash
-  pytest tests/
-  ```
 
 ## 📜 Code of Conduct
 - Be respectful and professional in all interactions.
@@ -87,7 +80,7 @@ We may not accept contributions that do not align with the project goals or dupl
 - Communicate with the team about any blockers or delays.
 
 ## How to Report a Bug
-If you find a security vulnerability, do NOT open an issue. Instead, email the team directly at `security@csc510group13.com`.
+Report an issue.
 
 To report a bug, please include the following details:
 1. What version of the project are you using?
@@ -95,17 +88,6 @@ To report a bug, please include the following details:
 3. Steps to reproduce the issue.
 4. Expected vs. actual results.
 
-## How to Suggest a Feature
-If you have a feature request, please submit an issue and include:
-- A clear explanation of why the feature is needed.
-- Possible use cases and benefits.
-- A rough outline of how it could be implemented.
-
-## Code Review Process
-All contributions are reviewed by the core maintainers. PRs are typically reviewed within a few days. If you have not received feedback within a week, feel free to tag a maintainer.
-
-## Community
-For discussions, you can reach us on Slack or Discord. Links to our community channels are available in the repository README.
 
 ---
 
