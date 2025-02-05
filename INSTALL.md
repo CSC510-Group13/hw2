@@ -13,6 +13,7 @@ Windows:
     Run the installer and follow the default setup.
 
 ## Clone the repository:
+```
 git clone [https://github.com/your-username/csc510-group13.git](https://github.com/CSC510-Group13/hw2.git)
 cd csc510-group13
-
+```
